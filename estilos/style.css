@@ -42,8 +42,9 @@ main {
 
 #login #imagem{
     display: block;
-    background: url(../imagens/pexels-pixabay-248921.jpg) no-repeat;
-    background-size: contain;
+    background: url(../imagens/predio.jpg) no-repeat no-repeat;
+    background-size: cover;
+    background-position: top;
     height: 200px;
     
 }
